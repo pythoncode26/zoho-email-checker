@@ -4,12 +4,12 @@
 
 ## Key Features:
 
-- Accurate Email Validation
-- Multiprocessing Support
-- Proxy Support
-- Robust Request Handling
-- Configurable User-Agent Headers
-- Scalable Workflow
+- Accurate Email Validation.
+- Multiprocessing Support.
+- Proxy Support.
+- Robust Request Handling.
+- Configurable User-Agent Headers.
+- Scalable Workflow.
 
 
 ## 🤝 Get in Touch
