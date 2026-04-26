@@ -1,6 +1,6 @@
 # Zoho Valid Email Checker
 
-![Zoho Valid Email Checker](https://raw.githubusercontent.com/pythoncode26/zoho-email-checker/refs/heads/main/zoho-email-validator.png)
+![Zoho Valid Email Checker]()
 
 ## Key Features:
 
